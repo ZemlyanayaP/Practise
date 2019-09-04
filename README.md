@@ -48,7 +48,7 @@
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			  				<ul>
 					<li><a href="#"><i class="icon-facebook"></i></a></li>
-					<li><a href="#"><i class="icon-twitter"></i></a></li>
+					<li><a href="#"><i class="icon-vkontakte"></i></a></li>
 					<li><a href="#"><i class="icon-instagram"></i></a></li>
 					<li><a href="#"><i class="icon-linkedin"></i></a></li>
 				</ul>
